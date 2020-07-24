@@ -1,0 +1,6 @@
+{!Item__c.Bluewave_Assignee__c},
+
+Item {!Item__c.Name} has been updated by Bluewave.
+
+Please review using the following link: 
+{!Item__c.Link}

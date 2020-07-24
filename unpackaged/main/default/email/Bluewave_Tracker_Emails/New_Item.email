@@ -1,0 +1,11 @@
+The following Item has just been raised:
+
+Project: {!Project__c.Name}
+Phase: {!Phase__c.Name}
+
+Subject: {!Item__c.Subject__c}
+Description: {!Item__c.Description__c}
+Classification: {!Item__c.Classification__c}
+Priority: {!Item__c.Priority__c}
+
+Link: {!Item__c.Link}

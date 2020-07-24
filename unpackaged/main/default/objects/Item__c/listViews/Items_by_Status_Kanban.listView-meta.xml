@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>Items_by_Status_Kanban</fullName>
+        <columns>NAME</columns>
+        <columns>Subject__c</columns>
+        <columns>Status__c</columns>
+        <columns>Classification__c</columns>
+        <columns>Phase__c</columns>
+        <columns>Priority__c</columns>
+        <columns>Stage__c</columns>
+        <columns>Bluewave_Assignee__c</columns>
+        <columns>Estimated_Effort_Hours__c</columns>
+        <columns>CREATED_DATE</columns>
+        <filterScope>Everything</filterScope>
+        <label>Items by Status (Kanban)</label>
+    </ListView>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Item</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Items</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Item Layout</layout>
+        <sections>
+            <label><!-- Analysis --></label>
+            <section>Analysis</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+        <sections>
+            <label><!-- Further Information --></label>
+            <section>Further Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please provide an email address for the Bluewave Assignee selected. This is required for notification purposes. --></errorMessage>
+        <name>Bluewave_Assignee_Email_Required</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A Bluewave Assignee must be identified. --></errorMessage>
+        <name>Bluewave_Assignee_Required</name>
+    </validationRules>
+</CustomObjectTranslation>

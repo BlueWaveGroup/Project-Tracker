@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>Bluewave_Assignee_Required</fullName>
+        <active>true</active>
+        <errorConditionFormula>AND(
+NOT(ISPICKVAL(Status__c, 'New')),
+NOT(ISPICKVAL(Status__c, 'Closed')),
+ISBLANK(TEXT(Bluewave_Assignee__c))
+)</errorConditionFormula>
+        <errorMessage>A Bluewave Assignee must be identified.</errorMessage>
+    </ValidationRule>
