@@ -2,7 +2,7 @@
   "packageDirectories": [
     {
       "path": "unpackaged",
-      "default": "false"
+      "default": "true"
     }
   ],
   "namespace": "",
