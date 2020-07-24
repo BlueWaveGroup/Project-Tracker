@@ -10,3 +10,7 @@ This can be deployed using Gearset.
 
 Some setup is required upon install, mainly to update picklists with relevant team members involved in the project.
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
