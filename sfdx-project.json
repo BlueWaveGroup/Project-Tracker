@@ -1,11 +1,17 @@
 {
-  "packageDirectories": [
-    {
-      "path": "unpackaged",
-      "default": "true"
+    "packageDirectories": [
+        {
+            "path": "unpackaged",
+            "default": true,
+            "package": "BlueWaveTracker",
+            "versionName": "ver 0.1",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "BlueWaveTracker": "0Ho4L0000008OKkSAM"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "49.0"
 }
