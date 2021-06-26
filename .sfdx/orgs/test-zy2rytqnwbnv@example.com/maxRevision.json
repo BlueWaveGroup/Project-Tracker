@@ -1,0 +1,563 @@
+{
+  "serverMaxRevisionCounter": 257,
+  "sourceMembers": {
+    "ListView__Item__c.All": {
+      "serverRevisionCounter": 61,
+      "lastRetrievedFromServer": 61,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Item__c.Items_by_Owner_Kanban": {
+      "serverRevisionCounter": 62,
+      "lastRetrievedFromServer": 62,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Item__c.Items_by_Priority_Kanban": {
+      "serverRevisionCounter": 63,
+      "lastRetrievedFromServer": 63,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Item__c.Items_by_Status_Classification": {
+      "serverRevisionCounter": 64,
+      "lastRetrievedFromServer": 64,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Item__c.Items_by_Status_Kanban": {
+      "serverRevisionCounter": 65,
+      "lastRetrievedFromServer": 65,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Phase__c.All": {
+      "serverRevisionCounter": 66,
+      "lastRetrievedFromServer": 66,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Project__c.All_Active_Projects": {
+      "serverRevisionCounter": 67,
+      "lastRetrievedFromServer": 67,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Project__c.All_Projects": {
+      "serverRevisionCounter": 68,
+      "lastRetrievedFromServer": 68,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "Group__Bluewave_Tracker": {
+      "serverRevisionCounter": 52,
+      "lastRetrievedFromServer": 52,
+      "memberType": "Group",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Phase__c": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": 11,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Project__c": {
+      "serverRevisionCounter": 13,
+      "lastRetrievedFromServer": 13,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Project__c": {
+      "serverRevisionCounter": 15,
+      "lastRetrievedFromServer": 15,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Actual_Effort_Hours__c": {
+      "serverRevisionCounter": 17,
+      "lastRetrievedFromServer": 17,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Bluewave_Assignee_Email__c": {
+      "serverRevisionCounter": 18,
+      "lastRetrievedFromServer": 18,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Bluewave_Assignee__c": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": 19,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Classification__c": {
+      "serverRevisionCounter": 20,
+      "lastRetrievedFromServer": 20,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Dependency__c": {
+      "serverRevisionCounter": 21,
+      "lastRetrievedFromServer": 21,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Description__c": {
+      "serverRevisionCounter": 23,
+      "lastRetrievedFromServer": 23,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Due_Date__c": {
+      "serverRevisionCounter": 24,
+      "lastRetrievedFromServer": 24,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Estimated_Effort_Hours__c": {
+      "serverRevisionCounter": 25,
+      "lastRetrievedFromServer": 25,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Internal_Owner__c": {
+      "serverRevisionCounter": 26,
+      "lastRetrievedFromServer": 26,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Outcome__c": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Priority__c": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Project_Mailbox__c": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Salesforce_Record_Link__c": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Stage__c": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Status__c": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Item__c.Subject__c": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Active__c": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Current__c": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Description__c": {
+      "serverRevisionCounter": 37,
+      "lastRetrievedFromServer": 37,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.End_Date__c": {
+      "serverRevisionCounter": 38,
+      "lastRetrievedFromServer": 38,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Start_Date__c": {
+      "serverRevisionCounter": 39,
+      "lastRetrievedFromServer": 39,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Status__c": {
+      "serverRevisionCounter": 40,
+      "lastRetrievedFromServer": 40,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.Active__c": {
+      "serverRevisionCounter": 41,
+      "lastRetrievedFromServer": 41,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.Current__c": {
+      "serverRevisionCounter": 42,
+      "lastRetrievedFromServer": 42,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.Description__c": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": 43,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.End_Date__c": {
+      "serverRevisionCounter": 44,
+      "lastRetrievedFromServer": 44,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.Project_Mailbox__c": {
+      "serverRevisionCounter": 45,
+      "lastRetrievedFromServer": 45,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.Start_Date__c": {
+      "serverRevisionCounter": 46,
+      "lastRetrievedFromServer": 46,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.Status__c": {
+      "serverRevisionCounter": 47,
+      "lastRetrievedFromServer": 47,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Number_of_Closed_Items__c": {
+      "serverRevisionCounter": 48,
+      "lastRetrievedFromServer": 48,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Number_of_Items__c": {
+      "serverRevisionCounter": 49,
+      "lastRetrievedFromServer": 49,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Phase__c.Number_of_New_Items__c": {
+      "serverRevisionCounter": 50,
+      "lastRetrievedFromServer": 50,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Project__c.Number_of_Active_Phases__c": {
+      "serverRevisionCounter": 51,
+      "lastRetrievedFromServer": 51,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Report__BluewaveTrackerReports/All_Time_Items": {
+      "serverRevisionCounter": 71,
+      "lastRetrievedFromServer": 71,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "Report__BluewaveTrackerReports/Current_Open_Items": {
+      "serverRevisionCounter": 72,
+      "lastRetrievedFromServer": 72,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "Report__BluewaveTrackerReports/Currently_Assigned_To": {
+      "serverRevisionCounter": 73,
+      "lastRetrievedFromServer": 73,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "Report__BluewaveTrackerReports/Items_Awaiting_Customer": {
+      "serverRevisionCounter": 74,
+      "lastRetrievedFromServer": 74,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "Report__BluewaveTrackerReports/Unassigned_Items": {
+      "serverRevisionCounter": 75,
+      "lastRetrievedFromServer": 75,
+      "memberType": "Report",
+      "isNameObsolete": false
+    },
+    "EmailTemplate__Bluewave_Tracker_Emails/Item_Assigned_to_Bluewave": {
+      "serverRevisionCounter": 82,
+      "lastRetrievedFromServer": 82,
+      "memberType": "EmailTemplate",
+      "isNameObsolete": false
+    },
+    "EmailTemplate__Bluewave_Tracker_Emails/Item_Assigned_to_Customer": {
+      "serverRevisionCounter": 83,
+      "lastRetrievedFromServer": 83,
+      "memberType": "EmailTemplate",
+      "isNameObsolete": false
+    },
+    "EmailTemplate__Bluewave_Tracker_Emails/New_Item": {
+      "serverRevisionCounter": 84,
+      "lastRetrievedFromServer": 84,
+      "memberType": "EmailTemplate",
+      "isNameObsolete": false
+    },
+    "Layout__Item__c-Item Layout": {
+      "serverRevisionCounter": 78,
+      "lastRetrievedFromServer": 78,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Phase__c-Phase Layout": {
+      "serverRevisionCounter": 79,
+      "lastRetrievedFromServer": 79,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Project__c-Project Layout": {
+      "serverRevisionCounter": 80,
+      "lastRetrievedFromServer": 80,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "ReportFolder__BluewaveTrackerReports": {
+      "serverRevisionCounter": 70,
+      "lastRetrievedFromServer": 70,
+      "memberType": "ReportFolder",
+      "isNameObsolete": false
+    },
+    "DashboardFolder__BluewaveTrackerDashboards": {
+      "serverRevisionCounter": 76,
+      "lastRetrievedFromServer": 76,
+      "memberType": "DashboardFolder",
+      "isNameObsolete": false
+    },
+    "EmailFolder__Bluewave_Tracker_Emails": {
+      "serverRevisionCounter": 81,
+      "lastRetrievedFromServer": 81,
+      "memberType": "EmailFolder",
+      "isNameObsolete": false
+    },
+    "CustomObject__Item__c": {
+      "serverRevisionCounter": 98,
+      "lastRetrievedFromServer": 98,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "Workflow__Item__c": {
+      "serverRevisionCounter": 108,
+      "lastRetrievedFromServer": 108,
+      "memberType": "Workflow",
+      "isNameObsolete": false
+    },
+    "CustomObject__Phase__c": {
+      "serverRevisionCounter": 55,
+      "lastRetrievedFromServer": 55,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__Project__c": {
+      "serverRevisionCounter": 56,
+      "lastRetrievedFromServer": 56,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "Dashboard__BluewaveTrackerDashboards/SbFyWKfhhraDieGFKQrObPawyqhvCI": {
+      "serverRevisionCounter": 77,
+      "lastRetrievedFromServer": 77,
+      "memberType": "Dashboard",
+      "isNameObsolete": false
+    },
+    "CustomTab__Item__c": {
+      "serverRevisionCounter": 92,
+      "lastRetrievedFromServer": 92,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomTab__Phase__c": {
+      "serverRevisionCounter": 93,
+      "lastRetrievedFromServer": 93,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomTab__Project__c": {
+      "serverRevisionCounter": 94,
+      "lastRetrievedFromServer": 94,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomApplication__Bluewave_Tracker": {
+      "serverRevisionCounter": 257,
+      "lastRetrievedFromServer": 257,
+      "memberType": "CustomApplication",
+      "isNameObsolete": false
+    },
+    "ContentAsset__bluewave_logo": {
+      "serverRevisionCounter": 97,
+      "lastRetrievedFromServer": 97,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "ValidationRule__Item__c.Bluewave_Assignee_Email_Required": {
+      "serverRevisionCounter": 58,
+      "lastRetrievedFromServer": 58,
+      "memberType": "ValidationRule",
+      "isNameObsolete": false
+    },
+    "ValidationRule__Item__c.Bluewave_Assignee_Required": {
+      "serverRevisionCounter": 59,
+      "lastRetrievedFromServer": 59,
+      "memberType": "ValidationRule",
+      "isNameObsolete": false
+    },
+    "ValidationRule__Project__c.Active_Phase_Required": {
+      "serverRevisionCounter": 60,
+      "lastRetrievedFromServer": 60,
+      "memberType": "ValidationRule",
+      "isNameObsolete": false
+    },
+    "ReportType__Projects_with_Phases_with_Items": {
+      "serverRevisionCounter": 69,
+      "lastRetrievedFromServer": 69,
+      "memberType": "ReportType",
+      "isNameObsolete": false
+    },
+    "QuickAction__New_Project": {
+      "serverRevisionCounter": 85,
+      "lastRetrievedFromServer": 85,
+      "memberType": "QuickAction",
+      "isNameObsolete": false
+    },
+    "QuickAction__Phase__c.New_Item": {
+      "serverRevisionCounter": 86,
+      "lastRetrievedFromServer": 86,
+      "memberType": "QuickAction",
+      "isNameObsolete": false
+    },
+    "QuickAction__Project__c.New_Phase": {
+      "serverRevisionCounter": 87,
+      "lastRetrievedFromServer": 87,
+      "memberType": "QuickAction",
+      "isNameObsolete": false
+    },
+    "CompactLayout__Item__c.Default": {
+      "serverRevisionCounter": 57,
+      "lastRetrievedFromServer": 57,
+      "memberType": "CompactLayout",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Bluewave_Tracker_UtilityBar": {
+      "serverRevisionCounter": 88,
+      "lastRetrievedFromServer": 88,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Item_Record_Page": {
+      "serverRevisionCounter": 89,
+      "lastRetrievedFromServer": 89,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Phase_Record_Page": {
+      "serverRevisionCounter": 90,
+      "lastRetrievedFromServer": 90,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Project_Record_Page": {
+      "serverRevisionCounter": 91,
+      "lastRetrievedFromServer": 91,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "GlobalValueSet__Bluewave_Assignee": {
+      "serverRevisionCounter": 53,
+      "lastRetrievedFromServer": 53,
+      "memberType": "GlobalValueSet",
+      "isNameObsolete": false
+    },
+    "PermissionSet__Bluewave_Tracker_Admin": {
+      "serverRevisionCounter": 109,
+      "lastRetrievedFromServer": 109,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "PermissionSet__Bluewave_Tracker_User": {
+      "serverRevisionCounter": 110,
+      "lastRetrievedFromServer": 110,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "PathAssistant__Item_Status": {
+      "serverRevisionCounter": 111,
+      "lastRetrievedFromServer": 111,
+      "memberType": "PathAssistant",
+      "isNameObsolete": false
+    },
+    "PathAssistant__Phase_Status": {
+      "serverRevisionCounter": 112,
+      "lastRetrievedFromServer": 112,
+      "memberType": "PathAssistant",
+      "isNameObsolete": false
+    },
+    "PathAssistant__Project_Status": {
+      "serverRevisionCounter": 113,
+      "lastRetrievedFromServer": 113,
+      "memberType": "PathAssistant",
+      "isNameObsolete": false
+    },
+    "Flow__Create_New_Item": {
+      "serverRevisionCounter": 248,
+      "lastRetrievedFromServer": 248,
+      "memberType": "Flow",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 247,
+      "lastRetrievedFromServer": 247,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Sales Profile": {
+      "serverRevisionCounter": 244,
+      "lastRetrievedFromServer": 244,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Marketing Profile": {
+      "serverRevisionCounter": 245,
+      "lastRetrievedFromServer": 245,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Profile__Custom: Support Profile": {
+      "serverRevisionCounter": 246,
+      "lastRetrievedFromServer": 246,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "ContentAsset__bluewave": {
+      "serverRevisionCounter": 251,
+      "lastRetrievedFromServer": 251,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    }
+  }
+}

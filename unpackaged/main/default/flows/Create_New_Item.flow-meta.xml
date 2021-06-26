@@ -336,7 +336,7 @@
             <inputParameters>
                 <name>fieldApiName</name>
                 <value>
-                    <stringValue>blu__Project__c</stringValue>
+                    <stringValue>Project__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
@@ -348,7 +348,7 @@
             <inputParameters>
                 <name>objectApiName</name>
                 <value>
-                    <stringValue>blu__Item__c</stringValue>
+                    <stringValue>Item__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
@@ -373,7 +373,7 @@
             <inputParameters>
                 <name>fieldApiName</name>
                 <value>
-                    <stringValue>blu__Phase__c</stringValue>
+                    <stringValue>Phase__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
@@ -385,7 +385,7 @@
             <inputParameters>
                 <name>objectApiName</name>
                 <value>
-                    <stringValue>blu__Item__c</stringValue>
+                    <stringValue>Item__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
@@ -545,7 +545,7 @@
             <inputParameters>
                 <name>fieldApiName</name>
                 <value>
-                    <stringValue>blu__Project__c</stringValue>
+                    <stringValue>Project__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
@@ -557,7 +557,7 @@
             <inputParameters>
                 <name>objectApiName</name>
                 <value>
-                    <stringValue>blu__Item__c</stringValue>
+                    <stringValue>Item__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
@@ -576,7 +576,7 @@
             <inputParameters>
                 <name>fieldApiName</name>
                 <value>
-                    <stringValue>blu__Phase__c</stringValue>
+                    <stringValue>Phase__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
@@ -588,7 +588,7 @@
             <inputParameters>
                 <name>objectApiName</name>
                 <value>
-                    <stringValue>blu__Item__c</stringValue>
+                    <stringValue>Item__c</stringValue>
                 </value>
             </inputParameters>
             <inputParameters>
