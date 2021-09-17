@@ -5,7 +5,7 @@ Bluewave Tracker Version 1.0 (Unlocked Package 2nd Gen)
 This will be used in customer's Orgs to help with UAT/Timebanks etc, to help us track issues and changes.
 
 **It can be installed using the link below which will install the tracker as an unlocked package:**
-https://sforce.co/3h725aZ
+sforce.co/3x2E9LP
 
 It will ask for an install key you can use: **test1234**
 
