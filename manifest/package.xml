@@ -96,5 +96,5 @@
 		<members>Item__c.Notify_Internal_Owner</members>
 		<name>WorkflowAlert</name>
 	</types>
-	<version>53.0</version>
+	<version>55.0</version>
 </Package>
