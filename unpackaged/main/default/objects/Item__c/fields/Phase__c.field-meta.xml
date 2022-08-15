@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-        <fullName>Phase__c</fullName>
-        <externalId>false</externalId>
-        <label>Phase</label>
-        <referenceTo>Phase__c</referenceTo>
-        <relationshipLabel>Items</relationshipLabel>
-        <relationshipName>Items</relationshipName>
-        <relationshipOrder>0</relationshipOrder>
-        <reparentableMasterDetail>false</reparentableMasterDetail>
-        <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>true</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>MasterDetail</type>
-        <writeRequiresMasterRead>false</writeRequiresMasterRead>
-    </CustomField>
+    <fullName>Phase__c</fullName>
+    <externalId>false</externalId>
+    <label>Phase</label>
+    <referenceTo>Phase__c</referenceTo>
+    <relationshipLabel>Items</relationshipLabel>
+    <relationshipName>Items</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

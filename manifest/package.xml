@@ -29,7 +29,6 @@
 		<name>Dashboard</name>
 	</types>
 	<types>
-        <members>Bluewave_Tracker_Emails</members>
 		<members>Bluewave_Tracker_Emails/Item_Assigned_to_Bluewave</members>
 		<members>Bluewave_Tracker_Emails/Item_Assigned_to_Customer</members>
 		<members>Bluewave_Tracker_Emails/New_Item</members>
@@ -43,7 +42,12 @@
 		<name>FlexiPage</name>
 	</types>
 	<types>
+		<members>Bluewave_Assignee_Identified</members>
 		<members>Create_New_Item</members>
+		<members>Send_Email_Notification_to_Bluewave_Assignee</members>
+		<members>Send_Email_Notification_to_Bluewave_Customer</members>
+		<members>Send_New_Item_Notification_Externally</members>
+		<members>Set_Project_Mailbox_on_Item</members>
 		<name>Flow</name>
 	</types>
 	<types>
@@ -75,7 +79,6 @@
 		<name>QuickAction</name>
 	</types>
 	<types>
-        <members>BluewaveTrackerReports</members>
 		<members>BluewaveTrackerReports/All_Time_Items</members>
 		<members>BluewaveTrackerReports/Current_Open_Items</members>
 		<members>BluewaveTrackerReports/Currently_Assigned_To</members>
@@ -88,8 +91,10 @@
 		<name>ReportType</name>
 	</types>
 	<types>
-		<members>Item__c</members>
-		<name>Workflow</name>
+		<members>Item__c.External_New_Item_Notification</members>
+		<members>Item__c.Notify_Bluewave</members>
+		<members>Item__c.Notify_Internal_Owner</members>
+		<name>WorkflowAlert</name>
 	</types>
 	<version>53.0</version>
 </Package>

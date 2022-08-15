@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-        <label><!-- Classification --></label>
-        <name>Classification__c</name>
-        <picklistValues>
-            <masterLabel>Change Request</masterLabel>
-            <translation><!-- Change Request --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>Idea</masterLabel>
-            <translation><!-- Idea --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>Issue</masterLabel>
-            <translation><!-- Issue --></translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>Training</masterLabel>
-            <translation><!-- Training --></translation>
-        </picklistValues>
-    </CustomFieldTranslation>
+    <label></label>
+    <name>Classification__c</name>
+    <picklistValues>
+        <masterLabel>Change Request</masterLabel>
+        <translation></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Idea</masterLabel>
+        <translation></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Issue</masterLabel>
+        <translation></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Training</masterLabel>
+        <translation></translation>
+    </picklistValues>
+</CustomFieldTranslation>
