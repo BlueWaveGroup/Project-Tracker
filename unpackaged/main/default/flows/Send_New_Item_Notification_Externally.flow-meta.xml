@@ -18,7 +18,9 @@
     <apiVersion>55.0</apiVersion>
     <description>Migrated from the: Send New Item Notification Externally workflow rule
 Workflow rule description: &quot;</description>
+    <environments>Default</environments>
     <label>Send New Item Notification Externally</label>
+    <migratedFromWorkflowRuleName>Send New Item Notification Externally</migratedFromWorkflowRuleName>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>

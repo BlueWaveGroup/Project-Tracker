@@ -19,6 +19,7 @@
     <description>Migrated from the: Send Email Notification to Bluewave Customer workflow rule
 Workflow rule description: &quot;</description>
     <label>Send Email Notification to Bluewave Customer</label>
+    <migratedFromWorkflowRuleName>Send Email Notification to Bluewave Customer</migratedFromWorkflowRuleName>
     <processMetadataValues>
         <name>CanvasMode</name>
         <value>

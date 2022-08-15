@@ -4,6 +4,7 @@
     <description>Migrated from the: Bluewave Assignee Identified workflow rule
 Workflow rule description: &quot;</description>
     <label>Bluewave Assignee Identified</label>
+    <migratedFromWorkflowRuleName>Bluewave Assignee Identified</migratedFromWorkflowRuleName>
     <processMetadataValues>
         <name>CanvasMode</name>
         <value>

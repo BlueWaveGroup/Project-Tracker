@@ -3,7 +3,9 @@
     <apiVersion>55.0</apiVersion>
     <description>Migrated from the: Set Project Mailbox on Item workflow rule
 Workflow rule description: &quot;</description>
+    <environments>Default</environments>
     <label>Set Project Mailbox on Item</label>
+    <migratedFromWorkflowRuleName>Set Project Mailbox on Item</migratedFromWorkflowRuleName>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>
