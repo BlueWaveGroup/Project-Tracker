@@ -2,18 +2,16 @@
     "packageDirectories": [
         {
             "path": "unpackaged",
-            "default": true,
-            "package": "BlueWaveTracker",
-            "versionName": "ver Production 1.1",
-            "versionNumber": "1.1.0.NEXT"
+            "package": "BluewaveTracker",
+            "versionName": "ver Production 1.5",
+            "versionNumber": "1.5.0.NEXT",
+            "default": true
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "BlueWaveTracker": "0Ho4L0000008OKkSAM",
-        "BlueWaveTracker@1.0.0-1": "04t4L000000UArkQAG",
-        "BlueWaveTracker@1.1.0.1": "04t4L000000UETaQAO"
+        "BluewaveTracker": "0Ho4L000000PB5nSAG"
     }
 }
