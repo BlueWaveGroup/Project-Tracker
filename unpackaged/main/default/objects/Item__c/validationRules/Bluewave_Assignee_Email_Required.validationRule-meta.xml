@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
-        <fullName>Bluewave_Assignee_Email_Required</fullName>
-        <active>true</active>
-        <errorConditionFormula>AND(
+    <fullName>Bluewave_Assignee_Email_Required</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
 NOT(ISBLANK(TEXT(Bluewave_Assignee__c))),
 ISBLANK(Bluewave_Assignee_Email__c)
 )</errorConditionFormula>
-        <errorDisplayField>Bluewave_Assignee_Email__c</errorDisplayField>
-        <errorMessage>Please provide an email address for the Bluewave Assignee selected. This is required for notification purposes.</errorMessage>
-    </ValidationRule>
+    <errorDisplayField>Bluewave_Assignee_Email__c</errorDisplayField>
+    <errorMessage>Please provide an email address for the Bluewave Assignee selected. This is required for notification purposes.</errorMessage>
+</ValidationRule>
