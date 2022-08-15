@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "BluewaveTracker": "0Ho4L000000PB5nSAG"
+        "BluewaveTracker": "0Ho4L000000PB5nSAG",
+        "BluewaveTracker@1.5.0-1": "04t4L000000LkBCQA0"
     }
 }
