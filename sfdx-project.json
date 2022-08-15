@@ -4,7 +4,7 @@
             "path": "unpackaged",
             "package": "BluewaveTracker",
             "versionName": "ver Production 1.5",
-            "versionNumber": "1.5.0.NEXT",
+            "versionNumber": "1.5.1.NEXT",
             "default": true
         }
     ],
@@ -13,6 +13,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "BluewaveTracker": "0Ho4L000000PB5nSAG",
-        "BluewaveTracker@1.5.0-1": "04t4L000000LkBCQA0"
+        "BluewaveTracker@1.5.0-1": "04t4L000000LkBCQA0",
+        "BluewaveTracker@1.5.1-1": "04t4L000000LkBHQA0"
     }
 }
