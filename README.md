@@ -1,11 +1,13 @@
 # Project-Tracker
 
-Bluewave Tracker Version 1.0 (Unlocked Package 2nd Gen)
+Bluewave Tracker Version 1.5 (Unlocked Package 2nd Gen)
+
+_Updates - Removed workflows and updated to flows (15 Aug 2022) JMW_
 
 This will be used in customer's Orgs to help with UAT/Timebanks etc, to help us track issues and changes.
 
 **It can be installed using the link below which will install the tracker as an unlocked package:**
-https://sforce.co/3x2E9LP
+https://sforce.co/3w7qNAu
 
 It will ask for an install key you can use: **test1234**
 
